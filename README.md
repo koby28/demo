@@ -9,3 +9,4 @@ Account management service
 |GET|http://localhost:8083/api/users/{id}|Get specified user info|
 |POST|http://localhost:8083/api/users|Create new user|
 |PUT|http://localhost:8083/api/users/{id}|Update user info|
+[PUT]koby28
