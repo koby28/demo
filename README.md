@@ -1,6 +1,6 @@
 # petstore-account-service
 
-Account management service
+Account management service   V2
 
 |method|url|desc|
 |:---|:---|:---|
